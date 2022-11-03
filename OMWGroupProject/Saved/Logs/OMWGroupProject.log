@@ -784,3 +784,22 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.03-00.50.28:037][ 89]LogSavePackage: Moving '../../../../../../Users/Sam McBeth/Documents/GitHub/MechwarsSourceControl/OMWGroupProject/Saved/BlankBLlueprintB12E0F1446A60467D0C99489CF2821B5.tmp' to '../../../../../../Users/Sam McBeth/Documents/GitHub/MechwarsSourceControl/OMWGroupProject/Content/BluePrints/BlankBLlueprint.uasset'
 [2022.11.03-00.50.28:046][ 89]AssetCheck: New page: Asset Save: BlankBLlueprint
 [2022.11.03-00.50.28:046][ 89]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BlankBLlueprint.BlankBLlueprint
+[2022.11.03-00.52.29:032][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.11.03-00.52.29:050][615]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/TestingLevels/BlankMapForTesting_Auto1
+[2022.11.03-00.52.29:050][615]LogSavePackage: Moving '../../../../../../Users/Sam McBeth/Documents/GitHub/MechwarsSourceControl/OMWGroupProject/Saved/BlankMapForTesting_Auto15EA0DA3D45A5448B171F3388248B914D.tmp' to '../../../../../../Users/Sam McBeth/Documents/GitHub/MechwarsSourceControl/OMWGroupProject/Saved/Autosaves/Game/Levels/TestingLevels/BlankMapForTesting_Auto1.umap'
+[2022.11.03-00.52.29:056][615]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TestingLevels/BlankMapForTesting' took 0.030
+[2022.11.03-00.52.29:056][615]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.030
+[2022.11.03-00.54.00:295][596]LogMetaData: Removing '/Game/BluePrints/Testing/BlankBLlueprint.BlankBLlueprint:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BluePrints/BlankBLlueprint.PackageMetaData'
+[2022.11.03-00.54.00:296][596]LogMetaData: Removing '/Game/BluePrints/Testing/BlankBLlueprint.SKEL_BlankBLlueprint_C:UserConstructionScript' ref from Metadata '/Game/BluePrints/BlankBLlueprint.PackageMetaData'
+[2022.11.03-00.54.00:296][596]LogMetaData: Removing '/Game/BluePrints/Testing/BlankBLlueprint.SKEL_BlankBLlueprint_C' ref from Metadata '/Game/BluePrints/BlankBLlueprint.PackageMetaData'
+[2022.11.03-00.54.00:296][596]LogMetaData: Removing '/Game/BluePrints/Testing/BlankBLlueprint.BlankBLlueprint_C' ref from Metadata '/Game/BluePrints/BlankBLlueprint.PackageMetaData'
+[2022.11.03-00.54.00:296][596]LogMetaData: Removing '/Game/BluePrints/Testing/BlankBLlueprint.BlankBLlueprint:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BluePrints/BlankBLlueprint.PackageMetaData'
+[2022.11.03-00.54.00:296][596]LogMetaData: Removing '/Game/BluePrints/Testing/BlankBLlueprint.BlankBLlueprint:EventGraph.K2Node_Event_1' ref from Metadata '/Game/BluePrints/BlankBLlueprint.PackageMetaData'
+[2022.11.03-00.54.00:296][596]LogMetaData: Removing '/Game/BluePrints/Testing/BlankBLlueprint.BlankBLlueprint:EventGraph.K2Node_Event_2' ref from Metadata '/Game/BluePrints/BlankBLlueprint.PackageMetaData'
+[2022.11.03-00.54.00:349][596]LogSavePackage: Moving output files for package: /Game/BluePrints/Testing/BlankBLlueprint
+[2022.11.03-00.54.00:349][596]LogSavePackage: Moving '../../../../../../Users/Sam McBeth/Documents/GitHub/MechwarsSourceControl/OMWGroupProject/Saved/BlankBLlueprintC28A5064476A2BEB556DCFA5BB609770.tmp' to '../../../../../../Users/Sam McBeth/Documents/GitHub/MechwarsSourceControl/OMWGroupProject/Content/BluePrints/Testing/BlankBLlueprint.uasset'
+[2022.11.03-00.54.00:365][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.11.03-00.54.00:371][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.11.03-00.54.00:377][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2022.11.03-00.54.00:402][596]AssetCheck: New page: Asset Save: BlankBLlueprint
+[2022.11.03-00.54.00:402][596]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/Testing/BlankBLlueprint.BlankBLlueprint
